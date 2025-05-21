@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TikTokDL", "TikTok-DL\TikTokDL.csproj", "{4F2BCE3D-C072-4FD9-BC41-3BEC99F06EEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeVersion-TikTokDL", "TikTok-DL\TikTokDL.csproj", "{4F2BCE3D-C072-4FD9-BC41-3BEC99F06EEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
